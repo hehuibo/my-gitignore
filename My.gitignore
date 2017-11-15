@@ -35,6 +35,9 @@ bld/
 *.userosscache
 *.sln.docstates
 
+*.VC.db
+*.sdf
+
 ## VisualStudioCode  
 .vscode 
 
