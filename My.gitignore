@@ -1,0 +1,51 @@
+[Dd]ebug/
+[Rr]elease/
+
+## Ignore IAR Compiler
+*.[o-d]
+!settings/*.crun
+!settings/*.dbgdt
+!settings*.dnx
+!settings*.wsdt
+!settings*.wspos
+
+## Ignore MDK Compiler
+[Dd]bjects/
+DebugConfig/
+Listings/
+*.uvguix.*
+
+## Ignore Visual Studio
+# Build results
+[Dd]ebugPublic/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## VisualStudioCode  
+.vscode 
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+ 
