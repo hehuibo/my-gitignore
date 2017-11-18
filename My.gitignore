@@ -5,9 +5,16 @@
 *.[o-d]
 !settings/*.crun
 !settings/*.dbgdt
-!settings*.dnx
-!settings*.wsdt
-!settings*.wspos
+!settings/*.dnx
+!settings/*.wsdt
+!settings/*.wspos
+!debug/*.h
+!debug/*.c
+!debug/*.cpp
+!debug/RTT/*.c
+!debug/RTT/*.cpp
+!debug/RTT/*.h
+
 
 ## Ignore MDK Compiler
 [Dd]bjects/
