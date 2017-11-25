@@ -8,13 +8,8 @@
 !settings/*.dnx
 !settings/*.wsdt
 !settings/*.wspos
-!debug/*.h
-!debug/*.c
-!debug/*.cpp
-!debug/RTT/*.c
-!debug/RTT/*.cpp
-!debug/RTT/*.h
-
+*.[Aa]dmin
+*.[Aa]dministrator
 
 ## Ignore MDK Compiler
 [Oo]bjects/
